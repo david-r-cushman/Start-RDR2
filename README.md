@@ -39,7 +39,9 @@ EcoQoS. Both changes end when the game process ends.
 
 ## Requirements
 
-- Windows 10 or Windows 11
+- Windows 11 (supported)
+- Windows 10 is unsupported and not guaranteed to provide the required
+  Efficiency Mode behavior or verification APIs.
 - Steam with Red Dead Redemption 2 installed and signed in
 - Windows PowerShell 5.1 or newer (included with supported Windows versions)
 
