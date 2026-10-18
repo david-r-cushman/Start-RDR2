@@ -7,6 +7,8 @@ Task Manager.
 
 ## Why this project exists
 
+This project was inspired by a [Steam Community discussion](https://steamcommunity.com/app/1174180/discussions/0/592884025032519250/) describing this manual workaround for RDR2 crashes on Windows 11.
+
 This project has two goals.
 
 First, it removes a frustrating manual step for players whose RDR2 experience
